@@ -1,3 +1,4 @@
 # Week7-Transformer-
-Short circuit test
-Open circuit test
+1.Short circuit test
+
+2.Open circuit test
